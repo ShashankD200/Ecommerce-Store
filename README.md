@@ -1,6 +1,4 @@
-
-
-The Shoe Box E-commerce Site
+The ShoeBoxx E-commerce Site
 
 ## Introduction
 
